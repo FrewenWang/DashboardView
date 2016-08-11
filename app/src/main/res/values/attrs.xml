@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MySportView">
+        <attr name="titleSize" format="dimension"></attr>
+        <attr name="titleText" format="string"></attr>
+        <attr name="titleColor" format="color"></attr>
+        <attr name="outCircleColor" format="color"></attr>
+        <attr name="inWeakColor" format="color"></attr>
+        <attr name="inNormalColor" format="color"></attr>
+        <attr name="inHighColor" format="color"></attr>
+
+    </declare-styleable>
+</resources>
